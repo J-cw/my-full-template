@@ -21,7 +21,8 @@ nav li {
 }
 
 nav a {
-    text-decoration: none; /* removes underline from links*/
+    text-decoration: none;
+    /* removes underline from links*/
     color: #fff;
     display: block;
 }
@@ -32,7 +33,8 @@ nav a:hover {
 }
 
 .card {
-    float: left; /* appears in a row not stacked ontop of eachother */
+    float: left;
+    /* appears in a row not stacked ontop of eachother */
     width: 20%;
     margin-left: 10%
 }
@@ -42,7 +44,8 @@ nav a:hover {
 }
 
 img {
-    width: 100%; /* relative width of the container it's in not the screen */
+    width: 100%;
+    /* relative width of the container it's in not the screen */
     height: 180px;
 }
 
